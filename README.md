@@ -1,4 +1,4 @@
-📚 Scholar Chat Bot with PDF 📚
+📚 Scholar Chat Bot with PDFs 📚
 
 Overview
 
