@@ -68,8 +68,8 @@ User Input:
 
 What are the key takeaways from the Clinical Knowledge Embeddings research?
 
-
 Bot Response:
+
 •	Clinical knowledge embeddings provide a unified representation of clinical knowledge by integrating seven medical vocabularies.
 •	These embeddings were validated through a phenotype risk score analysis involving 4.57 million patients from Clalit Healthcare Services.
 •	Inter-institutional clinician panels confirmed the alignment of embeddings across 90 diseases and 3,000 clinical codes.
