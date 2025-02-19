@@ -23,22 +23,23 @@ Tech Stack\
 
 Installation
 1.	Clone the repository\
-bash
-CopyEdit
+bash\
+
 git clone https://github.com/your-repo/scholar-chat-bot.git\
 cd scholar-chat-bot\
-2.	Create a virtual environment (optional but recommended)\
-bash
-CopyEdit
+3.	Create a virtual environment (optional but recommended)\
+
+bash\
+
 python -m venv venv\
 source venv/bin/activate   # On macOS/Linux\
 venv\Scripts\activate      # On Windows\
 
-3.	Install dependencies\
+4.	Install dependencies\
 bash\
 CopyEdit\
 pip install -r requirements.txt\
-4.	Set up API key for Google AI\
+5.	Set up API key for Google AI\
 o	Create a .env file in the project root\
 o	Add your Google API Key:\
 ini
