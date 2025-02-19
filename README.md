@@ -63,8 +63,9 @@ streamlit run app.py
 5.	Vector Storage: FAISS stores embeddings for efficient retrieval.
 6.	Question Answering: User queries are matched with relevant text chunks, and Google Gemini AI generates responses. 
    
-Example Query
+Example Query \
 User Input:
+
 What are the key takeaways from the Clinical Knowledge Embeddings research?
 
 
