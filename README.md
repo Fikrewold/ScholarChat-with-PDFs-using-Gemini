@@ -39,7 +39,7 @@ venv\Scripts\activate      # On Windows\
 bash\
 
 pip install -r requirements.txt\
-5.	Set up API key for Google AI\
+Set up API key for Google AI\
 o	Create a .env file in the project root\
 o	Add your Google API Key:\
 
