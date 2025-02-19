@@ -37,19 +37,20 @@ venv\Scripts\activate      # On Windows\
 
 4.	Install dependencies\
 bash\
-CopyEdit\
+
 pip install -r requirements.txt\
 5.	Set up API key for Google AI\
 o	Create a .env file in the project root\
 o	Add your Google API Key:\
-ini
-CopyEdit
+
 GOOGLE_API_KEY=your_api_key_here\
+
 Usage
 1.	Run the Streamlit app\
 bash\
-CopyEdit\
+
 streamlit run app.py\
+
 2.	Upload your PDF files
 3.	Enter a research-related query
 4.	Receive detailed responses based on the document content\
