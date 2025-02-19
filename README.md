@@ -1,5 +1,7 @@
 📚 Scholar Chat Bot with PDF 📚
+
 Overview
+
 Scholar Chat Bot is an AI-powered application that allows users to interact with academic and research PDFs using natural language queries. By leveraging Google Gemini AI, FAISS for vector storage, and Streamlit for the user interface, this tool helps users extract key insights from scientific documents efficiently.\
 
 Features\
