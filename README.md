@@ -75,10 +75,11 @@ Bot Response:
 •	Inter-institutional clinician panels confirmed the alignment of embeddings across 90 diseases and 3,000 clinical codes.
 •	The model improves AI-based clinical vocabulary integration for patient-level models.
 
-Future Enhancements
-•	Support for more document formats (e.g., Word, Excel)
-•	Multi-document summarization
-•	Integration with citation/reference management tools
-License
+Future Enhancements\
+•	Support for more document formats (e.g., Word, Excel)\
+•	Multi-document summarization\
+•	Integration with citation/reference management tools\
+
+License\
 This project is open-source and available under the MIT License.
 
