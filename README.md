@@ -43,13 +43,13 @@ pip install -r requirements.txt\
 o	Create a .env file in the project root\
 o	Add your Google API Key:\
 
-GOOGLE_API_KEY=your_api_key_here\
+GOOGLE_API_KEY=your_api_key_here
 
 Usage
 1.	Run the Streamlit app\
 bash\
 
-streamlit run app.py\
+streamlit run app.py
 
 2.	Upload your PDF files
 3.	Enter a research-related query
