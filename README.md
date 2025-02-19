@@ -57,16 +57,19 @@ streamlit run app.py\
 3.	Text Chunking: RecursiveCharacterTextSplitter divides content into smaller chunks.
 4.	Embedding Generation: Google Gemini AI converts text into embeddings.
 5.	Vector Storage: FAISS stores embeddings for efficient retrieval.
-6.	Question Answering: User queries are matched with relevant text chunks, and Google Gemini AI generates responses. \
+6.	Question Answering: User queries are matched with relevant text chunks, and Google Gemini AI generates responses. 
    
 Example Query
 User Input:
 What are the key takeaways from the Clinical Knowledge Embeddings research?
+
+
 Bot Response:
 •	Clinical knowledge embeddings provide a unified representation of clinical knowledge by integrating seven medical vocabularies.
 •	These embeddings were validated through a phenotype risk score analysis involving 4.57 million patients from Clalit Healthcare Services.
 •	Inter-institutional clinician panels confirmed the alignment of embeddings across 90 diseases and 3,000 clinical codes.
 •	The model improves AI-based clinical vocabulary integration for patient-level models.
+
 Future Enhancements
 •	Support for more document formats (e.g., Word, Excel)
 •	Multi-document summarization
